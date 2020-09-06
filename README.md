@@ -1,7 +1,7 @@
 ![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/audientes_website.png?raw=true)
 https://www.audientes.com/
 
-# Audientes
+## About
 Course project in collaboration with startup, Audientes.
 
 ## Visuals
