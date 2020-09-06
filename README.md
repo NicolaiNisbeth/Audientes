@@ -1,29 +1,18 @@
-# Foobar
+![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/audientes_website?raw=true)
+https://www.audientes.com/
 
-Foobar is a Python library for dealing with word pluralization.
+# Audientes
+Course project in collaboration with startup, Audientes.
 
-## Installation
+## Visuals
+![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/iteration_layout?raw=true)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Technologies
+This project was developed with the following technologies:
+- Model-View-ViewModel (MVVM)
+- Room
+- Livedata 
+- Google analytics 
+- MP Android chart
+- Lottie animation
