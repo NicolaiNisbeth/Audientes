@@ -1,11 +1,11 @@
-![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/audientes_website?raw=true)
+![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/audientes_website.png?raw=true)
 https://www.audientes.com/
 
 # Audientes
 Course project in collaboration with startup, Audientes.
 
 ## Visuals
-![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/iteration_layout?raw=true)
+![Image of Audientes](https://github.com/NicolaiNisbeth/Audientes/blob/master/app/src/main/res/drawable/iteration_layout.png?raw=true)
 
 
 ## Technologies
